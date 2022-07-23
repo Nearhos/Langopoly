@@ -1,7 +1,5 @@
 // January 22, 2022
 // Nearhos Hatzinikoalou
-// ISC3U
-// Ella Katsman
 // Langopoly
 package hojfjeo;
 import java.util.Scanner;
